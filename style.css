@@ -42,4 +42,5 @@ p, li { color: var(--text); }
 }
 a { color: var(--accent); }
 nav { display: flex; gap: 18px; flex-wrap: wrap; margin-top: 40px; font-size: 14px; }
+.yt { margin-top: 20px; padding: 12px 14px; border-radius: 10px; border-left: 4px solid #ff0033; background: color-mix(in srgb, #ff0033 7%, transparent); font-size: 14px; }
 hr { border: 0; border-top: 1px solid var(--border); margin: 36px 0; }
